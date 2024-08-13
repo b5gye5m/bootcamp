@@ -5,8 +5,8 @@ while True:
     try:
         int(num)
         
+        print(type(num))
         
-
         
         
         break
